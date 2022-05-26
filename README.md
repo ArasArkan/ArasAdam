@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **New NFT project**
 
-- 🌱 I’m currently learning **Blockchain and crypto**
+- 🌱 I’m currently learning **blockchain**
 
 - 📫 How to reach me **arasarkan9@gmail.com**
 
