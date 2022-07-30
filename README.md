@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aras</h1>
+<img src="https://i.gifer.com/6M8R.gif" width="30px">
 <h3 align="center">I'm a Jr.Backend and Blockchain dev.</h3>
 
 
