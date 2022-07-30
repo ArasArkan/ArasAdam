@@ -1,3 +1,4 @@
+![6M8R](https://user-images.githubusercontent.com/83475962/181924865-97424c57-2212-46df-8cb8-9506e385d3ef.gif)
 
 <h3 align="center">I'm a Jr.Backend and Blockchain dev.</h3>
 
