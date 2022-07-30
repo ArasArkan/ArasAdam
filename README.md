@@ -1,6 +1,6 @@
 
 
-<iframe src="https://gifer.com/embed/6M8R" width=480 height=322.689 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<div style="padding-top:67.227%;position:relative;"><iframe src="https://gifer.com/embed/6M8R" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 <h3 align="center">I'm a Jr.Backend and Blockchain dev.</h3>
 
 
