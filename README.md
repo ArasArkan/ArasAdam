@@ -1,6 +1,4 @@
 
-
-<img src"https://i.gifer.com/6M8R.gif"></img>
 <h3 align="center">I'm a Jr.Backend and Blockchain dev.</h3>
 
 
